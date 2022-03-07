@@ -1,0 +1,68 @@
+h1{
+    color: red;
+    font-weight: 400;
+    font-style: italic;
+    float: right;
+}
+
+H2{
+    color: lightblue;
+    font-size: 50px;
+    font-weight: lighter;
+    
+}
+
+U{
+    line-height: 30px;
+    letter-spacing: 10px;
+    text-align: right;
+    text-transform: capitalize;
+    margin: 10px;
+    color: aqua;
+    letter-spacing: 23px;
+    font-family: monospace;
+    position: fixed;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    letter-spacing: 5px;
+}
+
+h3{
+    text-align: middle;
+    font-size: 100px;
+    color: blueviolet;
+}
+il{
+    line-height: 30px;
+    letter-spacing: 10px;
+    text-align: right;
+    text-transform: capitalize;
+    margin: 10px;
+    color: red;
+    letter-spacing: 23px;
+}
+
+
+em{
+    letter-spacing: 10px;
+    font-size: 100px;
+    text-align: end;
+
+}
+
+h4{
+    color: brown;
+    font-size: 30px ;
+}
+
+li{
+    font-size: 30px;
+    letter-spacing: 70px;
+}
+
+::backdrop {
+    color: thistle;
+}

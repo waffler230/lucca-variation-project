@@ -1,0 +1,61 @@
+h1{
+    color: red;
+    font-size: 40px;
+    margin-left: 400px;
+    margin-right: 200px;
+
+}
+
+h2{
+    color:aqua;
+    font-size: 40px;
+    margin-left: 400px;
+    margin-right: 200px;
+}
+
+strong{
+    font-size: xx-large;
+    font-family: cursive;
+}
+
+div {
+    margin: 200px;
+    width: 400px;
+    height: 400px;
+    background-color: rgb(0, 0, 0);
+    animation-name: example;
+    animation-duration: 4s;
+    font-size: 200px;
+  }
+  
+  @keyframes example {
+    from {background-color: red;}
+    to {background-color: rgb(0, 204, 255);}
+   
+  }
+
+p{
+    letter-spacing: 10px;
+    font-weight: 900;
+    margin-left: 400px;
+    background-color: aquamarine;
+    margin-right: 400px;
+}
+
+h3{
+    font-stretch: expanded;
+    font-size: 80px;
+}
+
+h5{
+    font-stretch: ultra-condensed;
+    color: red;
+    font-size: 300px;
+    letter-spacing: -50px;
+}
+
+h4{
+    color: aqua;
+    font-size: 300px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

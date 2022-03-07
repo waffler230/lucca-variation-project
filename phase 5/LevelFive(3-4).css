@@ -1,0 +1,55 @@
+u{
+        margin: 200px;
+        width: 400px;
+        height: 400px;
+        background-color: rgb(0, 0, 0);
+        animation-name: example;
+        animation-duration: 4s;
+        font-size: 200px;
+        animation-duration: 10s;
+        animation-play-state: running;
+      }
+      
+      @keyframes example {
+        from {background-color: red;}
+        to {background-color: rgb(0, 204, 255);}
+       
+      
+}
+
+h1{
+    color: red;
+    font-size: 200px;
+    margin-left: 400px;
+    margin-right: 200px;
+    
+
+}
+
+h2{
+    color:aqua;
+    font-size: 200px;
+    margin-left: 400px;
+    margin-right: 200px;
+}
+
+div{  
+    margin: 400px;
+    width: 600px;
+    height: 2000px;
+    background-color: rgb(24, 19, 19);
+    animation-name: example;
+    animation-duration: 4s;
+    font-size: 97px;
+  }
+  
+  @keyframes example {
+    from {background-color: rgb(250, 125, 125);}
+    to {background-color: rgb(253, 146, 226);}}
+
+  
+    
+    il{
+        color: red ;
+      
+      }
